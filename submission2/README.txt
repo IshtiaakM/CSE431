@@ -8,7 +8,7 @@ Paper title:
 Generation of English Question Answer Exercises from Texts using Transformers based Models
 
 Link to the paper:
-chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/37155/1/BRCR22.pdf
+https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/37155/1/BRCR22.pdf
 
 Group Number:
 7
